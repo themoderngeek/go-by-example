@@ -27,5 +27,4 @@ func main() {
 	for i, c := range "example" {
 		fmt.Println(i, c)
 	}
-
 }
